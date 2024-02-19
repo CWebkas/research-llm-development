@@ -7,6 +7,10 @@ Development with LLMs workshop
 Development with Large Language Models
 
 **Hosted by**
+Lukas Weixler, Lawand Muhamad
+Solution Advisors, Velebit AI
+
+Original from
 
 Mladen Fernežir
 
