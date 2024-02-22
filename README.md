@@ -33,7 +33,7 @@ Your laptop, experience with Python and Jupyter notebooks, OpenAI API key, free 
 
 **Improve ChatGPT with Knowledge Graphs**&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/velebit-ai/research-llm-development/blob/master/Improve_ChatGPT_with_Knowledge_Graphs.ipynb)
 
-**Q/A with LLMs + Harry Potter & Mistral HF API**&emsp;[![Open in Colab]([https://kaggle.com/static/images/open-in-kaggle.svg](https://colab.research.google.com/assets/colab-badge.svg))](https://colab.research.google.com/drive/1JO6-Zq84pbPvlyc-c6VaTsW0psrYepFf?usp=sharing)
+**Q/A with LLMs + Harry Potter & Mistral HF API**&emsp;[![Open in Colab]((https://colab.research.google.com/drive/1JO6-Zq84pbPvlyc-c6VaTsW0psrYepFf?usp=sharing)
 
 **Efficient LLM Instruction Tuning**&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//velebit-ai/research-llm-development/blob/master/GPU-efficient-LLM-fine-tuning.ipynb)
 
